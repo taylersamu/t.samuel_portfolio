@@ -1,0 +1,41 @@
+header{
+text-align: center;
+text-decoration-line: underline;
+ text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+ font-size: 20px;
+}
+body{
+	background-color: lightblue;
+	border: 3px solid black;
+	padding-bottom: 10px;
+}
+table{
+	width: 100%;
+	border: 3px solid black; 
+
+}
+a{
+	text-decoration: none;
+}
+.kozep{
+   width: 40%;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+img{
+	width: 100%;
+}	
+div{
+	border: 3px solid black;
+
+}
+nav{
+	padding-bottom: 10px;
+}
+p{
+	font-size: 30px;
+	text-align: center;
+	font-style: Serif;
+}
